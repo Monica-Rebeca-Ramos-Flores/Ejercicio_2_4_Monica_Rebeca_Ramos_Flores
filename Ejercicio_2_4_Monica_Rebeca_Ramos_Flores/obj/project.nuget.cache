@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "TPuhle1GV/k2L3XAhjAD5xB6qcr6TzBC82rBjh8i+tCILbzzTNRHpLxITpZTWyc3z8pdF5VkfOokDbjg4c+7dA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\source\\repos\\Ejercicio_2_4_Monica_Rebeca_Ramos_Flores\\Ejercicio_2_4_Monica_Rebeca_Ramos_Flores\\Ejercicio_2_4_Monica_Rebeca_Ramos_Flores.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\plugin.mediamanager\\1.1.1\\plugin.mediamanager.1.1.1.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\plugin.mediamanager.forms\\1.1.1\\plugin.mediamanager.forms.1.1.1.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\plugin.permissions\\6.0.1\\plugin.permissions.6.0.1.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\xam.plugin.media\\5.0.1\\xam.plugin.media.5.0.1.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
